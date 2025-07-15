@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class calculater {
 
     static void powerInt(int num1, int num2) {
         System.out.println("Power (int): " + Math.pow(num1, num2));
